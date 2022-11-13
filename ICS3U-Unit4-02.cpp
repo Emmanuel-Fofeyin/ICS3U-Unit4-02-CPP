@@ -1,8 +1,8 @@
-//!/ usr / bin / env python3
-
-//Created by : Emmanuel
-//Created on : Nov 2022
-//This program uses a while loop and multiplies
+// Copyright (c) 2022 Emmanuel All rights reserved.
+//
+// Created by : Emmanuel
+// Created on : Nov 2022
+// This program uses a while loop and multiplies
 
 #include <iostream>
 #include <string>
